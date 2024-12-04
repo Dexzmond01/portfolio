@@ -1,20 +1,29 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hi There! Abdullaih Adekanbi 🤓, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+Hi There! I'm Abdullaih Adekanbi 🤓, As a detail-driven and analytical data analyst, I help organizations make informed decisions by extracting insights from complex data sets. With a strong foundation in statistical analysis, data visualization, and machine learning, I turn data into actionable recommendations that drive business growth.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
+*As the Chief Analyst of Abdullaih Solutions Ltd, I provide consulting services for businesses and mentor aspiring analysts.*
+*As a data analyst,my role involves collecting, organizing, and analyzing data to help organizations make informed business decisions. Here are some of the key tasks i perform;*
 
 **- ✅ Data Analytics Consulting.**
-I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
+1. *Data cleaning and preprocessing*: Ensuring data quality, handling missing values, and transforming data into a suitable format for analysis.
+2. *Data visualization*: Creating reports, dashboards, and visualizations to communicate insights and trends to stakeholders.
+3. *Statistical analysis*: Applying statistical techniques to identify correlations, trends, and patterns in data.. 
 
-**- ✅ Staff Training & Development.**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
+**- ✅ Data Interpretation.**
+1. *Insight generation*: Interpreting data results, identifying key findings, and drawing meaningful conclusions.
+2. *Recommendation development*: Developing actionable recommendations based on data insights to inform business decisions.
+3. *Stakeholder communication*: Presenting findings and recommendations to both technical and non-technical stakeholders. 
 
+**- ✅ Data Management.**
+1. *Data governance*: Ensuring data quality, security, and compliance with organizational policies and regulations.
+2. *Data storage and management*: Designing and implementing data storage solutions, managing data backups, and ensuring data accessibility.
+3. *Data documentation*: Maintaining accurate and up-to-date documentation of data sources, processing, and analysis.
 
 <!--Section 2: List 3-4 key projects-->
 ## MY PORTFOLIO 
