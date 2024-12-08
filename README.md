@@ -7,7 +7,7 @@ Hi There! I'm Abdullaih Adekanbi 🤓, As a detail-driven and analytical data an
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-*As the Chief Analyst of Abdullaih Solutions Ltd, I provide consulting services for businesses and mentor aspiring analysts.*
+*As an Analyst of Abdullaih Solutions Ltd, I provide consulting services for businesses and mentor aspiring analysts.*
 *As a data analyst,my role involves collecting, organizing, and analyzing data to help organizations make informed business decisions. Here are some of the key tasks i perform;*
 
 **- ✅ Data Analytics Consulting.**
@@ -35,7 +35,8 @@ Hi There! I'm Abdullaih Adekanbi 🤓, As a detail-driven and analytical data an
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More](Follow me on LinkedIn:
+www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=abdullaih-adekanbi-424b0b33b)
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
@@ -43,7 +44,8 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
 On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More](Follow me on LinkedIn:
+www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=abdullaih-adekanbi-424b0b33b)
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
