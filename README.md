@@ -35,8 +35,7 @@ Hi There! I'm Abdullaih Adekanbi 🤓, As a detail-driven and analytical data an
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
 
-[Read More](Follow me on LinkedIn:
-www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=abdullaih-adekanbi-424b0b33b)
+[Read More](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=abdullaih-adekanbi-424b0b33b)
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
@@ -44,8 +43,7 @@ www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followM
 
 On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
 
-[Read More](Follow me on LinkedIn:
-www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=abdullaih-adekanbi-424b0b33b)
+[Read More](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=abdullaih-adekanbi-424b0b33b)
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
