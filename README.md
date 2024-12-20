@@ -45,7 +45,7 @@ How does your location impact sales performance in your industry?"
 
 **Predictive Modeling and Hypothesis Testing using Weekly Performance  Dataset.**
 
-![image](assets/WeeklyPerformace.jpg)
+![image](Assests/WeeklyPerformace.jpg)
 
 Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
 [Read More](https://www.linkedin.com/in/abdullaihadekanbi)
