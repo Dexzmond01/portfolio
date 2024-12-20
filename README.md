@@ -30,12 +30,12 @@ Hi There! I'm Abdullaih Adekanbi 🤓, As a detail-driven and analytical data an
 
 *A glimpse of some of the projects I've been working on.*
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Predictive Modeling and Hypothesis Testing using <u>HR</u> ATTRITION Dataset.**
 ![image](Assests/Annotation 2024-12-03 024452.jpg)
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
 
-[Read More]([https://www.linkedin.com/in/abdullaihadekanbi])
+[Read More](https://www.linkedin.com/in/abdullaihadekanbi)
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
@@ -52,7 +52,7 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
 
 [Read More](https://www.linkedin.com/in/abdullaihadekanbi)
-
+p
 
 
 
@@ -78,7 +78,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
       <td>⬇️</td>
       <td><a href="https://dexzmond01.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
     </tr>
-    <tr>
+    <tr>i
       <td>🌐</td>
       <td><a href="https://linkedin.com/in/abdullaihadekanbi">The things I do daily on LinkedIn</a></td>
     </tr>
