@@ -31,7 +31,7 @@ Hi There! I'm Abdullaih Adekanbi 🤓, As a detail-driven and analytical data an
 *A glimpse of some of the projects I've been working on.*
 
 **Predictive Modeling and Hypothesis Testing using <u>HR</u> ATTRITION Dataset.**
-![image](Assests/HR Attrition.jpg)
+![image](Assests/HRAttrition.jpg)
 Discuss the importance of employee satisfaction and performance management
 
 
@@ -39,20 +39,27 @@ Discuss the importance of employee satisfaction and performance management
 
 **Predictive Modeling and Hypothesis Testing using Auto Sytle Dataset.**
 
-![image](assets/Auto Sytle.jpg)
+![image](Assests/AutoStyle.jpg)
 
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
-
+How does your location impact sales performance in your industry?"
 [Read More](https://www.linkedin.com/in/abdullaihadekanbi)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Predictive Modeling and Hypothesis Testing using Weekly Performance  Dataset.**
 
-![image](assets/car.jpg)
+![image](assets/WeeklyPerformace.jpg)
 
 Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
 
 [Read More](https://www.linkedin.com/in/abdullaihadekanbi)
-p
+
+
+**Predictive Modeling and Hypothesis Testing using DSTV Dataset.**
+![image](Assests/DstvChurn.jpg)
+How can flexible plans balance customer retention and satisfaction?"
+
+
+[Read More](https://www.linkedin.com/in/abdullaihadekanbi)
+
 
 
 
