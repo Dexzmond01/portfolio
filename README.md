@@ -32,9 +32,8 @@ Hi There! I'm Abdullaih Adekanbi 🤓, As a detail-driven and analytical data an
 
 **Predictive Modeling and Hypothesis Testing using <u>HR</u> ATTRITION Dataset.**
 ![image](Assests/HRAttrition.jpg)
+
 Discuss the importance of employee satisfaction and performance management
-
-
 [Read More](https://www.linkedin.com/in/abdullaihadekanbi)
 
 **Predictive Modeling and Hypothesis Testing using Auto Sytle Dataset.**
@@ -49,15 +48,13 @@ How does your location impact sales performance in your industry?"
 ![image](assets/WeeklyPerformace.jpg)
 
 Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
-
 [Read More](https://www.linkedin.com/in/abdullaihadekanbi)
 
 
 **Predictive Modeling and Hypothesis Testing using DSTV Dataset.**
 ![image](Assests/DstvChurn.jpg)
+
 How can flexible plans balance customer retention and satisfaction?"
-
-
 [Read More](https://www.linkedin.com/in/abdullaihadekanbi)
 
 
