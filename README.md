@@ -31,15 +31,15 @@ Hi There! I'm Abdullaih Adekanbi 🤓, As a detail-driven and analytical data an
 *A glimpse of some of the projects I've been working on.*
 
 **Predictive Modeling and Hypothesis Testing using <u>HR</u> ATTRITION Dataset.**
-![image](Assests/Annotation 2024-12-03 024452.jpg)
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+![image](Assests/HR Attrition.jpg)
+Discuss the importance of employee satisfaction and performance management
 
 
 [Read More](https://www.linkedin.com/in/abdullaihadekanbi)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Predictive Modeling and Hypothesis Testing using Auto Sytle Dataset.**
 
-![image](assets/agro.jpg)
+![image](assets/Auto Sytle.jpg)
 
 On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
 
