@@ -34,7 +34,7 @@ Hi There! I'm Abdullaih Adekanbi 🤓, As a detail-driven and analytical data an
 ![image](Assests/HRAttrition.jpg)
 
 Discuss the importance of employee satisfaction and performance management
-[Read More](https://www.linkedin.com/in/abdullaihadekanbi)
+[Read More](https://www.linkedin.com/posts/abdullaihadekanbi_dataanalysis-activity-7276018280027303936-11Gs)
 
 **Predictive Modeling and Hypothesis Testing using Auto Sytle Dataset.**
 
