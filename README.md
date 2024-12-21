@@ -41,7 +41,7 @@ Discuss the importance of employee satisfaction and performance management
 ![image](Assests/AutoStyle.jpg)
 
 How does your location impact sales performance in your industry?"
-[Read More](https://www.linkedin.com/in/abdullaihadekanbi)
+[Read More](https://www.linkedin.com/posts/abdullaihadekanbi_dataanalysis-activity-7271929182828261376-y73-?)
 
 **Predictive Modeling and Hypothesis Testing using Weekly Performance  Dataset.**
 
@@ -52,10 +52,10 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
 
 
 **Predictive Modeling and Hypothesis Testing using DSTV Dataset.**
-![image](Assests/DstvChurn.jpg)
+![image](Assests/IMG_7912.jpeg)
 
 How can flexible plans balance customer retention and satisfaction?"
-[Read More](https://www.linkedin.com/in/abdullaihadekanbi)
+[Read More](https://www.linkedin.com/posts/abdullaihadekanbi_churn-rate-analysis-dashboard-activity-7275555487251648513-pKL4?)
 
 
 
