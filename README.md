@@ -47,7 +47,7 @@ How does your location impact sales performance in your industry?".
 
 ![image](Assests/WeeklyPerformace.jpg)
 
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
+Here are key insights derived from the "Weekly Performance Summary" dashboard 
 [Read More](https://www.linkedin.com/posts/abdullaihadekanbi_dataanalysis-activity-7276032248385060864-qyoO?)
 
 
