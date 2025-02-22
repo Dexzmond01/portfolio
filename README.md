@@ -80,7 +80,7 @@ How can flexible plans balance customer retention and satisfaction?".
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://dexzmond01.github.io/portfolio/Assests/Assests/Profile.pdf">Download my CV</a></td>
+      <td><a href="https://github.com/Dexzmond01/portfolio/blob/59035ed9d1a2b284f89076723ac60adeb51968ad/Assests/Profile.pdf">Download my CV</a></td>
     </tr>
     <tr>i
       <td>🌐</td>
