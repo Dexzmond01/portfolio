@@ -80,7 +80,7 @@ How can flexible plans balance customer retention and satisfaction?".
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="Assests/Profile.pdf">Download my CV</a></td>
+      <td><a href="Assests/Mynewcv .pdf">Download my CV</a></td>
     </tr>
     <tr>i
       <td>🌐</td>
